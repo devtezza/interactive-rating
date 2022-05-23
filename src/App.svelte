@@ -4,19 +4,7 @@
    import Footer from './lib/Footer.svelte';
 </script>
 
-<div class="wrapper relative w-screen h-screen flex flex-col justify-center bg-very-dark font-body">   
+<div class="container wrapper relative w-screen max-w-screen-2xl h-screen flex flex-col justify-center bg-very-dark font-body">   
     <Modal/>
     <Footer />
 </div>
-
-
-
-
-
-
-<style>  
-.wrapper {
-    border: 1px solid green;
-}
-
-</style>

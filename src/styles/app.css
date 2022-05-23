@@ -3,3 +3,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* body {
+   border: 1px solid red;
+   
+} */
+
+h1 {   
+    @apply text-white font-semibold text-2xl;
+}
+
+p {
+    @apply text-sm text-light-grey mb-3;
+}
+
+.modal {
+    @apply container grid content-between w-80 h-88 px-5 bg-dark-blue rounded-2xl md:w-100;    
+}
+
+.attribution a {
+    @apply text-dark-blue hover:text-light-grey;
+} 
+
+.selected {
+    @apply text-white;
+}

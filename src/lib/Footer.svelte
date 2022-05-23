@@ -1,16 +1,6 @@
 <footer>
-    <div class="attribution w-screen absolute bottom-0">
+    <div class="attribution w-screen absolute bottom-0 text-xs text-center text-dark-blue-lighted">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a href="/">Your Name Here</a>.
+        Coded by <a href="https://www.devtezza.com/">Fernando Tezza</a>.
     </div>
 </footer>
-
-<style>
-        .attribution {
-      /* border: 1px solid blue;        */
-      font-size: 11px; 
-      text-align: center; 
-    }
-    .attribution a { color: hsl(228, 45%, 44%); } 
-</style>
-

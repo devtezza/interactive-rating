@@ -9,7 +9,8 @@ module.exports = {
     },   
     extend: {
       spacing: {
-        '88': '23rem',        
+        '88': '23rem',
+        '100': '30rem'        
       },
       colors: {
         'primary': 'hsl(25, 97%, 53%)',
