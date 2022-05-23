@@ -4,10 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
-/* body {
-   border: 1px solid red;
-   
-} */
+body {
+    min-width: 360px;
+}
 
 h1 {   
     @apply text-white font-semibold text-2xl;
@@ -18,7 +17,8 @@ p {
 }
 
 .modal {
-    @apply container grid content-between w-80 h-88 px-5 bg-dark-blue rounded-2xl md:w-100;    
+    @apply container grid content-between w-80 h-88 px-5 bg-dark-blue rounded-2xl md:w-100;
+    min-height: 23rem;    
 }
 
 .attribution a {
