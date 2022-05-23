@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Code](https://github.com/devtezza/interactive-rating)
-- Live Site URL: [View Live Site](https://devtezza.github.io/interactive-rating/)
+- Live Site URL: [View Live Site](https://interactive-rating-tau.vercel.app/)
 
 ## My process
 
